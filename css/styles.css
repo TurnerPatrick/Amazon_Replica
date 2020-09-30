@@ -1,0 +1,16 @@
+.col-md-3 {
+    float: center;
+    margin: 0 auto;
+    border-style: solid;
+    border-color: lightgray;
+    spacing: 0 auto; 
+
+}
+
+p {
+    margin: 0 auto;
+    text-align: center;
+}
+img {
+    padding: 1em;
+}
